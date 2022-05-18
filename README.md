@@ -51,3 +51,6 @@ The following are few sample outputs obtained in real-time using Kibana. There c
 <img width="920" alt="Screen Shot 2022-05-17 at 7 52 31 PM" src="https://user-images.githubusercontent.com/28973352/168935230-47e7b2a9-3387-4a49-879b-c8db42ed9f59.png">
 
 ## Results obtained by K-means clustering with k=3
+- Total iterations considered: 20
+- Plots shown for each 5 iterations
+<img width="1038" alt="Screen Shot 2022-05-17 at 8 05 54 PM" src="https://user-images.githubusercontent.com/28973352/168936415-75dab78e-4b1b-4ac2-b41f-36e406f887bd.png">
