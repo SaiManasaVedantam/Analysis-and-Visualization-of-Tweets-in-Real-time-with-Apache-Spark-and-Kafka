@@ -40,6 +40,12 @@ python tweet_consumer.py
 
 7. Run K-means.ipynb
 
+8. Visualization with kibana
+- Check if elasticsearch & kibana are up & running
+- Stack Management --> Index Patterns --> Create Index Pattern --> Link index with it
+- Dashboard --> Create New Dashboard --> Create Visualization
+- Select graph, Slice by & Size by values 
+
 ## Visualization with Kibana
 The following are few sample outputs obtained in real-time using Kibana. There can be several other visualization techniques used with Kibana.
 <img width="920" alt="Screen Shot 2022-05-17 at 7 52 31 PM" src="https://user-images.githubusercontent.com/28973352/168935230-47e7b2a9-3387-4a49-879b-c8db42ed9f59.png">
