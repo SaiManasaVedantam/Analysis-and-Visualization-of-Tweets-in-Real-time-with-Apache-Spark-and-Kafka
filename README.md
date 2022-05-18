@@ -1,4 +1,4 @@
-# Analysis-and-Visualization-of-Tweets-in-Real-time-with-Apache-Spark-Kafka  (May 2022)
+# Analysis-and-Visualization-of-Tweets-in-Real-time-with-Apache-Spark-and-Kafka  (May 2022)
 
 This project implements an end-to-end pipeline that:
 - Read tweets in real-time
